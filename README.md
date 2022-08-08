@@ -33,7 +33,7 @@
   <a href='https://rnfirebase.io/' target="_blank" rel="nofollow">React Native Firebase</a>
  </li>
  <li>
-  <a href='https://phosphoricons.com/' target="_blank" rel="nofollow">Phosphor React</a>
+  <a href='https://www.npmjs.com/package/phosphor-react-native' target="_blank" rel="nofollow">Phosphor React Native</a>
  </li>
 </u>
 
